@@ -1,2 +1,2 @@
-- The Global Digital Initiative (TGDI) -
+*The Global Digital Initiative (TGDI)*
 official website
