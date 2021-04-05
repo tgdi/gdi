@@ -1,2 +1,3 @@
-# The Global Digital Initiative (TGDI)'s
-Official Website
+# The Global Digital Initiative (TGDI)
+Official Website Repo
+Documentation coming soon
