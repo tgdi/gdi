@@ -183,31 +183,30 @@
 		});
 
 	$(".about").fadeOut();
-	$(".designs").fadeOut();
-	$(".hiw").fadeOut();
-	$(".mechanics").fadeOut();
-	$(".profiles").fadeOut();
+	$(".exp").fadeOut();
+	$(".people").fadeOut();
+	$(".story").fadeOut();
+	$(".stories").fadeOut();
 
 	$(".aboutToggle").click(function () {
 		$(".about").fadeToggle(200);
 	});
 
-	$(".designsToggle").click(function () {
-		$(".designs").fadeToggle(200);
+	$(".storyToggle").click(function () {
+		$(".story").fadeToggle(200);
 	});
 
-	$(".hiwToggle").click(function () {
-		$(".hiw").fadeToggle(200);
+	$(".expToggle").click(function () {
+		$(".exp").fadeToggle(200);
 	});
 
-	$(".mechanicsToggle").click(function () {
-		$(".mechanics").fadeToggle(200);
+	$(".peopleToggle").click(function () {
+		$(".people").fadeToggle(200);
 	});
 
-	$(".profileToggle").click(function () {
-		$(".profiles").fadeToggle(200);
+	$(".storiesToggle").click(function () {
+		$(".stories").fadeToggle(200);
 	});
-
 
 
 	// Header.

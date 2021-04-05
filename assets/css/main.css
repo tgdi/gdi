@@ -5234,22 +5234,34 @@ table.alt tbody tr td {
 	margin: 0 0 0 1rem;
 }
 
-#menu>ul.links>li.designs {
+#menu>ul.links>li.story {
 	margin: 0 0 0 1rem;
 }
 
-#menu>ul.links>li.hiw {
+#menu>ul.links>li.exp {
+	margin: 0 0 0 1rem;
+}
+/*
+#menu>ul.links>li.peopleToggle {
+	margin: 0 0 0 1rem;
+}
+*/
+#menu>ul.links>li.people {
 	margin: 0 0 0 1rem;
 }
 
-#menu>ul.links>li.mechanics {
+#menu>ul.links>li.stories {
+	margin: 0 0 0 1rem;
+}
+/*
+#menu>ul.links>li.gd {
 	margin: 0 0 0 2.5rem;
 }
 
-#menu>ul.links>li.profiles {
-	margin: 0 0 0 1rem;
+#menu>ul.links>li.ya {
+	margin: 0 0 0 2.5rem;
 }
-
+*/
 #menu>ul.links>li>a:not(.button) {
 	border: 0;
 	border-top: solid 1px rgba(255, 255, 255, 0.25);
