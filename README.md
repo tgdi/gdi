@@ -4,3 +4,4 @@ Documentation coming soon
 - jonathan
 - you ming
 - rachel
+- add name
