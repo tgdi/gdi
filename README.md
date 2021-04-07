@@ -2,6 +2,5 @@
 Official Website Repo
 Documentation coming soon
 - jonathan
-- ym
-- rachel
 - you ming
+- rachel
