@@ -65,7 +65,7 @@ function offGif() {
     document.getElementById("overlay").style.display = "none";
     enableScroll();
     var typed = new Typed('#typed', {
-        strings: ["Click to begin"],
+        strings: ["Be a CEO", "Be a Data Analyst", "Be a Changemaker", "Be at the Frontier"],
         typeSpeed: 50,
         backSpeed: 30,
         backDelay: 600
